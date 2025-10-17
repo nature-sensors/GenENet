@@ -27,7 +27,7 @@ collection and a simplified 6-channel wearable module for deployment </sub>
 
 Clone this repository and navigate to the root directory.
 ```bash
-git clone https://github.com/richkim92/GenENet.git
+git clone https://github.com/nature-sensors/GenENet.git
 cd GenENet
 ```
 ---
