@@ -10,11 +10,13 @@
 <!--  [![arXiv](https://img.shields.io/badge/arXiv%20paper-2504.11295-b31b1b.svg)](https://arxiv.org/abs/2504.11295)&nbsp;   -->
 
 ## Overview
-We propose a Generative Electromyography Network (GenENet), a representation learning framework integrated with a wearable sensor system that leverages a simple, low‑channel‑count device to predict a broad spectrum of body kinematics traditionally reliant on high‑density EMG sensor arrays. This approach enables acquisition of information comparable to that obtained from high‑density EMG networks while using a more compact and wearable device with significantly fewer sensors, without compromising performance in human‑computer interaction tasks.
+We propose a Generative Electromyography Network (GenENet), a self-supervised representation learning framework integrated with a wearable sensor system that leverages a simple, low‑channel‑count device to predict a broad spectrum of body kinematics traditionally reliant on high‑density EMG sensor arrays. This approach enables acquisition of information comparable to that obtained from high‑density EMG networks while using a more compact and wearable device with significantly fewer sensors, without compromising performance in human‑computer interaction tasks. Connected with downstream classifiers, the model achieved comparable performance on American Sign
+Language Translation and Gait Force Prediction with reduced sensor count.
 
 ![Teaser image](./assets/figure_1.png)
 <sub>
-[1] Nature Electronics, 2021  [2] IEEE TBME, 2024  [3] Scientific Reports, 2023  [4] Front. Bioeng. Biotechnol, 2020  [5] IEEE Transactions on Industrial Informatics, 2022 </sub>
+Custom 32-channel EMG acquisition device for data
+collection and a simplified 6-channel wearable module for deployment </sub>
 
 
 
