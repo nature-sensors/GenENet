@@ -1,6 +1,8 @@
 # A simplified low‑channel EMG sensing for human‑machine interfaces
 #### A modular framework for generative representation learning and downstream evaluation of EMG gesture prediction using low-channel wearble EMG device. 
-["A Simplified Wearable Device Powered by a Generative EMG Network for Hand Gesture Recognition and Gait Prediction "](https://www.nature.com/)
+["A Simplified Wearable Device Powered by a Generative EMG Network for Hand Gesture Recognition and Gait Prediction "](https://www.nature.com/articles/s44460-025-00002-2/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-red)](https://www.youtube.com/watch?v=Sm9y106B824)
 
 ---
 
@@ -17,7 +19,6 @@ Language Translation and Gait Force Prediction with reduced sensor count.
 <sub>
 Custom 32-channel EMG acquisition device for data
 collection and a simplified 6-channel wearable module for deployment </sub>
-
 
 
 ##  Setup
@@ -96,13 +97,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Citation
 
 ```
-@article{simplified_emg_device_2025,
-  title = {A Simplified Wearable Device Powered by a Generative EMG Network for Hand Gesture Recognition and Gait Prediction },
+@article{GenENet_2026,
+  title = {A Simplified Wearable Device Powered by a Generative EMG Network for Hand Gesture Recognition and Gait Prediction},
   author = {Kyun Kyu Kim and Zhenan Bao},
   journal = {Nature Sensors},
-  year = {2025},
-  doi = {1},
-  issn = {1},
-  url = {https://www.nature.com/},
+  year = {2026},
+  doi = {10.1038/s44460-025-00002-2},
+  issn = {3059-4499},
+  url = {https://www.nature.com/articles/s44460-025-00002-2},
 }
 ```
+
+
+
